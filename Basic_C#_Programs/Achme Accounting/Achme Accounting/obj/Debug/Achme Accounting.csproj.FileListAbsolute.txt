@@ -1,0 +1,6 @@
+C:\Users\slins\OneDrive\Desktop\Basic_C#_Programs\Achme Accounting\Achme Accounting\bin\Debug\Achme Accounting.exe.config
+C:\Users\slins\OneDrive\Desktop\Basic_C#_Programs\Achme Accounting\Achme Accounting\bin\Debug\Achme Accounting.exe
+C:\Users\slins\OneDrive\Desktop\Basic_C#_Programs\Achme Accounting\Achme Accounting\bin\Debug\Achme Accounting.pdb
+C:\Users\slins\OneDrive\Desktop\Basic_C#_Programs\Achme Accounting\Achme Accounting\obj\Debug\Achme Accounting.csproj.CoreCompileInputs.cache
+C:\Users\slins\OneDrive\Desktop\Basic_C#_Programs\Achme Accounting\Achme Accounting\obj\Debug\Achme Accounting.exe
+C:\Users\slins\OneDrive\Desktop\Basic_C#_Programs\Achme Accounting\Achme Accounting\obj\Debug\Achme Accounting.pdb
